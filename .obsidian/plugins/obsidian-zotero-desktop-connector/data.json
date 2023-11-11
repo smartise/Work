@@ -1,0 +1,30 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "Lecture\\Article",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Format #1",
+      "format": "latex",
+      "command": "cite"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Import #1",
+      "outputPathTemplate": "Lecture/Article/{{citekey}}.md",
+      "imageOutputPathTemplate": "Documents/ImageArticles",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "Template/Template highlight 2.md"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": false,
+  "whichNotesToOpenAfterImport": "first-imported-note",
+  "exeVersion": "1.0.15",
+  "shouldConcat": true,
+  "shouldShowCiteSuggest": true,
+  "_exeInternalVersion": 1
+}

@@ -1,0 +1,15 @@
+{
+  "show-add-list": false,
+  "show-archive-all": false,
+  "show-view-as-markdown": false,
+  "show-board-settings": false,
+  "show-search": false,
+  "metadata-keys": [],
+  "lane-width": 400,
+  "new-note-template": "Template/Kanban template.md",
+  "new-note-folder": "Kanban notes",
+  "new-line-trigger": "shift-enter",
+  "hide-card-count": true,
+  "prepend-archive-date": true,
+  "date-colors": []
+}

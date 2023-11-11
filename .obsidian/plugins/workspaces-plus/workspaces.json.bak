@@ -1,0 +1,244 @@
+{
+  "workspaces": {
+    "Home": {
+      "main": {
+        "id": "e9961de8d3a77a1d",
+        "type": "split",
+        "children": [
+          {
+            "id": "ea3b45410f254086",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5d28515c290e5025",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Home.canvas",
+                    "viewState": {
+                      "x": -458.5,
+                      "y": -512,
+                      "zoom": -0.5330771875017698,
+                      "snapToGrid": false
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "8b44b03f45435937",
+        "type": "split",
+        "children": [
+          {
+            "id": "9de7aff7be4130fa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e26a43c8a39db112",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "dffd3ddb471289e0",
+                "type": "leaf",
+                "state": {
+                  "type": "full-calendar-view",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "876d9bcf91053381",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5b8e98cbd86c1beb",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 247.50446701049805
+      },
+      "right": {
+        "id": "b9b0bdf31a59fc87",
+        "type": "split",
+        "children": [
+          {
+            "id": "92d77acd75f269b7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3417d7d749047d48",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Home.canvas",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "beb295a431b4fbfe",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Home.canvas",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1a1b3439acd66d2b",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "7f93d590533e8e39",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Home.canvas"
+                  }
+                }
+              },
+              {
+                "id": "f617bc154e566607",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "12ef96882436fca1",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "34b95397a3d8fb00",
+                "type": "leaf",
+                "state": {
+                  "type": "FANTASY_CALENDAR",
+                  "state": {}
+                }
+              },
+              {
+                "id": "28725fc6c7d77f73",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "9e66cea1d4440b53",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "558ebf6f7cb08509",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "44cc1dafdb3f467b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "99b5eb9d45793861",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "big-calendar:Big Calendar": true,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "obsidian-full-calendar:Open Full Calendar": true,
+          "canvas:Create new canvas": true,
+          "daily-notes:Open today's daily note": true,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "templater-obsidian:Templater": true,
+          "homepage:Open homepage": true,
+          "obsidian-projects:Open projects": true,
+          "fantasy-calendar:Open Large Fantasy Calendar": true,
+          "dbfolder:Create a new database table": true,
+          "periodic-notes:Open today": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "5d28515c290e5025",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "/",
+          "Lecture",
+          "Lecture/Article",
+          "Project/Grant"
+        ]
+      }
+    }
+  },
+  "active": "Home"
+}

@@ -1,0 +1,29 @@
+- [ ] carte identité 
+- [ ] palme
+- [ ] masque
+- [ ] t shirt wateeproof
+- [ ] chausure d'eau
+- [ ] passe port
+- [ ] parte feuille 
+- [ ] carte credit 
+- [ ] maillot
+- [ ] casque avec pile
+- [ ] savon 
+- [ ] shampoing
+- [ ] cahier 
+- [ ] crayon/bic
+- [ ] ebook (pas internet)
+- [ ] creme apres soleil 
+- [ ] go pro 
+- [ ] camera
+- [ ] chausure plonge
+- [ ] casquette
+- [ ] lunette de soleil 
+- [ ] pc
+- [ ] lecteur de carte 
+- [ ] snack 
+- [ ] sac waterproof
+- [ ] t shirt mais pas beaucoup si beaucoup dans l'eau 
+- [ ] slip mais pas beaucoup 
+- [ ] batterie externe 
+- [ ] antimoustique

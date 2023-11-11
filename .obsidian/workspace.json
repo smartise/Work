@@ -1,0 +1,296 @@
+{
+  "main": {
+    "id": "e9961de8d3a77a1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1aef71ce5292cfb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "943558bd94136404",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Project/journal/2023-11-11.md"
+              }
+            }
+          },
+          {
+            "id": "d3b45204947a2e13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git command.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b44b03f45435937",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b84fa475d5406b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96602b63652cdf51",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "9ae286b8ba55f969",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 538.4999961853027
+  },
+  "right": {
+    "id": "b9b0bdf31a59fc87",
+    "type": "split",
+    "children": [
+      {
+        "id": "92d77acd75f269b7",
+        "type": "tabs",
+        "dimension": 45.60290117860381,
+        "children": [
+          {
+            "id": "558ebf6f7cb08509",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3417d7d749047d48",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git command.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "beb295a431b4fbfe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "git command.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a1b3439acd66d2b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequencyReverse",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7f93d590533e8e39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git command.md"
+              }
+            }
+          },
+          {
+            "id": "1b62a3bc32288a43",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "e87e58971a36e4fe",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7fac624264682075",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
+          },
+          {
+            "id": "d28615268ae5333c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "4e2ce5afccc6ae3d",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "8b70b98a50f417b7",
+        "type": "tabs",
+        "dimension": 54.39709882139619,
+        "children": [
+          {
+            "id": "e26a43c8a39db112",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "line:(#introduction #general)",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 559.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "obsidian-gallery:Gallery": false,
+      "obsidian-map-view:Open map view": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "obsidian-omnivore:Omnivore": false,
+      "obsidian-day-planner:Week plan": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-custom-frames:Open Google Calendar": true,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
+      "zk-prefixer:Create new unique note": true,
+      "obsidian-excalidraw-plugin:Create new drawing": true,
+      "big-calendar:Big Calendar": true,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "obsidian-full-calendar:Open Full Calendar": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "templater-obsidian:Templater": true,
+      "obsidian-projects:Open projects": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": true,
+      "dbfolder:Create a new database table": true,
+      "workspaces:Manage workspace layouts": true,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "d3b45204947a2e13",
+  "lastOpenFiles": [
+    "Project/journal/2023-11-11.md",
+    "Project Panama - Raccourci.lnk",
+    "git command.md",
+    "folder script/pin dayli.md",
+    "cv latex.md",
+    "Documents/Personal document/CV_OlivierCollard.pdf",
+    "Documents/Personal document",
+    "Documents/Nouveau dossier",
+    "personal",
+    "Mail/Template.msf",
+    "Mail/Template",
+    "Mail/Modèles-olivier1996collard@hotmail.fr.msf",
+    "Mail/Modèles-olivier1996collard@hotmail.fr",
+    "Mail/Work seeking.msf",
+    "Note/Quick note.md",
+    "Data/ITS2profile_panama_10-11-23/Data_symportal/post_med_seqs/20231007T052214_seq_abundance_stacked_bar_plot.svg",
+    "Data/ITS2profile_panama_10-11-23/Data_symportal/post_med_seqs/20231007T052214_seq_abundance_stacked_bar_plot.png",
+    "Data/ITS2profile_panama_10-11-23/Data_symportal/between_sample_distances/F/20231007T052214_between_sample_distances_clade_F_unifrac_sqrt.svg",
+    "Data/ITS2profile_panama_10-11-23/Data_symportal/between_sample_distances/F/20231007T052214_between_sample_distances_clade_F_unifrac_sqrt.png",
+    "Data/ITS2profile_panama_10-11-23/Data_symportal/between_sample_distances/F/20231007T052214_between_sample_distances_clade_F_unifrac_no_sqrt.svg",
+    "Data/ITS2profile_panama_10-11-23/Data_symportal/between_sample_distances/F/20231007T052214_between_sample_distances_clade_F_unifrac_no_sqrt.png",
+    "Data/ITS2profile_panama_10-11-23/Data_symportal/between_sample_distances/F/20231007T052214_between_sample_distances_clade_F_braycurtis_sqrt.svg",
+    "Data/ITS2profile_panama_10-11-23/Data_symportal/between_sample_distances/F/20231007T052214_between_sample_distances_clade_F_braycurtis_no_sqrt.png",
+    "Data/ITS2profile_panama_10-11-23/Data_symportal/between_sample_distances/F/20231007T052214_between_sample_distances_clade_F_braycurtis_sqrt.png",
+    "Data/ITS2profile_panama_10-11-23/Data_symportal/between_sample_distances/F/20231007T052214_between_sample_distances_clade_F_braycurtis_no_sqrt.svg",
+    "Data/ITS2profile_panama_10-11-23/MarianaRochadeSouza-Kaneohe-Bay-2018-bf907a5/README.md",
+    "Project/journal/2023-11-10.md",
+    "Project/Work/Writing subject/Articles/Artcies delimitation espèce pocillopora.md",
+    "Project/Work/Practical work/Data processing work/Delimitation species .md",
+    "Delimitation species.md",
+    "Project/Work/Writing subject/Projet diverse/Blast Diana.md",
+    "Project/Work/Practical subject/Manipulation/DNA Blast.md",
+    "Project/Work/Writing subject/Projet diverse/Cover letter.md",
+    "Project/journal/2023-11-09.md",
+    "Project/Work/Writing subject/Presentation/Presentation FRIA.md",
+    "Project/journal/2023-11-07.md",
+    "Lecture/Article/liuDetectionDNABase2019.md",
+    "to do.md",
+    "Lecture/Article/rodriguez-casariegoGenomeWideDNAMethylation2020.md",
+    "Project/Work/Writing subject/Subject/Transcriptomic.md",
+    "Lecture/Article/yuNanoporeLongreadRNAseq2021.md",
+    "Lecture/Article/zieglerBacterialCommunityDynamics2017.md",
+    "Lecture/Article/vanwoesikEffectsCoralColony2012.md",
+    "Lecture/Article/loyaCoralBleachingWinners2001.md",
+    "Project/Work/Writing subject/Subject/Morphology.md",
+    "Home.canvas",
+    "Lecture/Canvas article/symbiodynaceae community analysis.canvas",
+    "Lecture/Canvas article/antioxydant and coral bleaching.canvas",
+    "Lecture/Canvas article/Heat stress adaptation.canvas",
+    "Lecture/Canvas article/generality.canvas",
+    "Lecture/Canvas article/Canvas.canvas",
+    "Lecture/Canvas article/review.canvas"
+  ]
+}

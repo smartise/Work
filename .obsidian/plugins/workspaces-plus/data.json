@@ -1,0 +1,20 @@
+{
+  "showInstructions": false,
+  "showDeletePrompt": true,
+  "saveOnSwitch": false,
+  "saveOnChange": false,
+  "workspaceSettings": false,
+  "systemDarkMode": false,
+  "globalSettings": {
+    "accentColor": "",
+    "baseFontSize": 29,
+    "theme": "obsidian",
+    "cssTheme": "Blue Topaz"
+  },
+  "activeWorkspaceDesktop": "workspace plus plus",
+  "activeWorkspaceMobile": "",
+  "reloadLivePreview": false,
+  "workspaceSwitcherRibbon": false,
+  "modeSwitcherRibbon": false,
+  "replaceNativeRibbon": false
+}

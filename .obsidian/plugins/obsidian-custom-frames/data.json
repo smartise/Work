@@ -1,0 +1,192 @@
+{
+  "frames": [
+    {
+      "url": "https://chat.openai.com/",
+      "displayName": "chatGPT",
+      "icon": "bot",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://calendar.google.com/calendar",
+      "displayName": "Google Calendar",
+      "icon": "calendar",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "/* hide the menu bar, \"Keep\" text, and logo */\nhtml > body > div:nth-child(2) > div:nth-child(2) > div:first-child[class*=\" \"],\nhtml > body > div:first-child > header:first-child > div > div:first-child > div > div:first-child,\nhtml > body > div:nth-child(2) > div:nth-child(2) > div:first-child > div:first-child {\ndisplay: none !important;\n}"
+    },
+    {
+      "url": "https://twitter.com",
+      "displayName": "Twitter",
+      "icon": "twitter",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://todoist.com",
+      "displayName": "Todoist",
+      "icon": "list-checks",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "/* hide the help, home, search, and productivity overview buttons, create extra space, and prevent toast pop-up from acting weird */\n[aria-label=\"Go to Home view\"], #quick_find, [aria-label=\"Productivity\"], [aria-label=\"Help & Feedback\"] {\n\tdisplay: none !important;\n}\n\n.view_content {\n\tpadding-left: 15px;\n}\n\n.view_header {\n\tpadding-left: 15px;\n\tpadding-top: 10px;\n}\n\n.undo_toast {\n\twidth: 95%;\n}"
+    },
+    {
+      "url": "https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=keywords%3Acoral",
+      "displayName": "EURAXESS",
+      "icon": "euro",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://to-do.live.com/tasks/",
+      "displayName": "To do ",
+      "icon": "check",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://translate.google.com/?hl=fr",
+      "displayName": "Traduction",
+      "icon": "arrow-up-down",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://www.findaphd.com/phds/?Keywords=coral",
+      "displayName": "FindaPHD",
+      "icon": "search",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://twitter.com/search?q=%23Phd%20Coral%20&src=typed_query&f=live",
+      "displayName": "Twitter coral",
+      "icon": "axe",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://www.thecoralreefresearchhub.com/career-opportunities/",
+      "displayName": "Coral research hub ",
+      "icon": "dot",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://onedrive.live.com/?id=root&cid=A8EFFAC1D09B8E0E",
+      "displayName": "OneDrive",
+      "icon": "cloud",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://www.microsoft365.com/launch/word?auth=1",
+      "displayName": "Word",
+      "icon": "pen",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://docs.google.com/document/d/1cQ58fQxl5dM-4S1f0oplVJwdeQQplDsj/edit",
+      "displayName": "French ambassie ",
+      "icon": "flag",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://scholar.google.com/?inst=10437135047913140093",
+      "displayName": "google scholar",
+      "icon": "planet",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://www.researchgate.net/",
+      "displayName": "researchgate",
+      "icon": "user",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://outlook.live.com/mail/0/",
+      "displayName": "Mail",
+      "icon": "Mail",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://outlook.live.com/calendar/0/view/month",
+      "displayName": "outlook calendar",
+      "icon": "calendar",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    }
+  ],
+  "padding": 5
+}

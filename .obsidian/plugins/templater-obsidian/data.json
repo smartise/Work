@@ -1,0 +1,126 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Template",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "folder script",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Personne",
+      "template": "Template/Personne.md"
+    },
+    {
+      "folder": "Mail",
+      "template": "Template/Mail.md"
+    },
+    {
+      "folder": "RESULT",
+      "template": "Template/Result.md"
+    },
+    {
+      "folder": "Project/MANIP",
+      "template": "Template/Manip.md"
+    },
+    {
+      "folder": "Project/EXPERIENCE",
+      "template": "Template/Experience.md"
+    },
+    {
+      "folder": "MACHINERIE",
+      "template": "Template/Equipement.md"
+    },
+    {
+      "folder": "Project/Work/Writing work/Meetings",
+      "template": "Template/Meetings.md"
+    },
+    {
+      "folder": "Project/Sample",
+      "template": "Template/Sample.md"
+    },
+    {
+      "folder": "Lecture/Subject note",
+      "template": "Template/Subject Note.md"
+    },
+    {
+      "folder": "People",
+      "template": "Template/People.md"
+    },
+    {
+      "folder": "Project/Work/Writing work/Articles",
+      "template": "Template/Article.md"
+    },
+    {
+      "folder": "Project/Work/Writing work/Grant",
+      "template": "Template/Grant.md"
+    },
+    {
+      "folder": "Project/Work/Writing work/Subject",
+      "template": "Template/Subject.md"
+    },
+    {
+      "folder": "Project/Work/Writing work/Projet diverse",
+      "template": "Template/Project.md"
+    },
+    {
+      "folder": "Project/Work/Writing work/Presentation",
+      "template": "Template/Presentation.md"
+    },
+    {
+      "folder": "Project/Work/Practical subject/Manipulation",
+      "template": "Template/Manipulation.md"
+    },
+    {
+      "folder": "Project/Work/Practical work/Sample",
+      "template": "Template/Sample.md"
+    },
+    {
+      "folder": "Project/Work/Writing work/Methodology subject",
+      "template": "Template/Methodology subject.md"
+    },
+    {
+      "folder": "Project/Work/Pratical subject/Data processing",
+      "template": "Template/Data analysis.md"
+    },
+    {
+      "folder": "Project/Work/Practical work/FIeldwork",
+      "template": "Template/Field work.md"
+    },
+    {
+      "folder": "Project/Work/Practical work/Data processing work",
+      "template": "Template/Data processing work.md"
+    },
+    {
+      "folder": "Project/Work/Pratical subject/Statistic",
+      "template": "Template/Statistic.md"
+    },
+    {
+      "folder": "Project/Work/Practical work/Statistic work",
+      "template": "Template/Statistic work.md"
+    },
+    {
+      "folder": "Project/Work/Practical work/Manipulation work",
+      "template": "Template/Manipulation work.md"
+    },
+    {
+      "folder": "Project/Work/Practical work/Sample well",
+      "template": "Template/Sample well.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

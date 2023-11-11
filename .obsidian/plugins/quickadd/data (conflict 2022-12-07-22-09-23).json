@@ -1,0 +1,69 @@
+{
+  "choices": [
+    {
+      "id": "97d089fd-918e-4347-8b19-8189f29512b7",
+      "name": "Template - New Person",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Template/Personne.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Personne"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "de48c8cd-2fbe-40eb-8bee-086b0b0d90da",
+      "name": "Daily note ",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "journal/{{date}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "Template/Daily"
+      },
+      "format": {
+        "enabled": true,
+        "format": "- [ ]  {{value}}"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "# Daily note",
+        "insertAtEnd": true,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line",
+  "devMode": false
+}

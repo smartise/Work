@@ -1,0 +1,2479 @@
+{
+  "workspaces": {
+    "Home": {
+      "main": {
+        "id": "e9961de8d3a77a1d",
+        "type": "split",
+        "children": [
+          {
+            "id": "bd28203a73eec998",
+            "type": "split",
+            "children": [
+              {
+                "id": "f999474cb5908258",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "dbcc36aa82cfbc27",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "to do.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "10be09641215b876",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "173c20c281b16b00",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Note/Quick note.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "8b44b03f45435937",
+        "type": "split",
+        "children": [
+          {
+            "id": "d7d6036409eb2ef4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e26a43c8a39db112",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "1b96c64361e0f16a",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Note/Dataview.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "21847d15fb71b4c8",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 399.50714111328125
+      },
+      "right": {
+        "id": "b9b0bdf31a59fc87",
+        "type": "split",
+        "children": [
+          {
+            "id": "92d77acd75f269b7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "80cd126ba93a3d06",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-outlook-calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "1a1b3439acd66d2b",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequencyReverse",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "558ebf6f7cb08509",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "a68fafcf2f1e6424",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "11a0159c6a3a7e89",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "to do.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "16a4127d8d3d926f",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "to do.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "d5e38e463ebb20f2",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "to do.md"
+                  }
+                }
+              },
+              {
+                "id": "69047171952ae46e",
+                "type": "leaf",
+                "state": {
+                  "type": "FANTASY_CALENDAR",
+                  "state": {}
+                }
+              },
+              {
+                "id": "48561dbae371081d",
+                "type": "leaf",
+                "state": {
+                  "type": "obsidian-projects",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 8
+          }
+        ],
+        "direction": "horizontal",
+        "width": 748.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-gallery:Gallery": false,
+          "obsidian-map-view:Open map view": false,
+          "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+          "obsidian-omnivore:Omnivore": false,
+          "obsidian-day-planner:Week plan": false,
+          "remotely-save:Remotely Save": false,
+          "obsidian-custom-frames:Open Google Calendar": true,
+          "obsidian-textgenerator-plugin:Generate Text!": true,
+          "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
+          "zk-prefixer:Create new unique note": true,
+          "obsidian-excalidraw-plugin:Create new drawing": true,
+          "big-calendar:Big Calendar": true,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "obsidian-full-calendar:Open Full Calendar": true,
+          "canvas:Create new canvas": true,
+          "daily-notes:Open today's daily note": true,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "templater-obsidian:Templater": true,
+          "obsidian-projects:Open projects": false,
+          "fantasy-calendar:Open Large Fantasy Calendar": true,
+          "dbfolder:Create a new database table": true,
+          "workspaces:Manage workspace layouts": true,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "dbcc36aa82cfbc27",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "folder script",
+          "Lecture",
+          "Project"
+        ],
+        "mode": null
+      }
+    },
+    "Analyze": {
+      "main": {
+        "id": "e9961de8d3a77a1d",
+        "type": "split",
+        "children": [
+          {
+            "id": "27ec6e2f6a8cd4e3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d041227dbee31849",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "7e3f8a72e28166d6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1ddb2cbd80a5f11e",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "8b44b03f45435937",
+        "type": "split",
+        "children": [
+          {
+            "id": "9de7aff7be4130fa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e26a43c8a39db112",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "dffd3ddb471289e0",
+                "type": "leaf",
+                "state": {
+                  "type": "full-calendar-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "23da189b6f6bb941",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "obsidian-projects",
+                  "state": {},
+                  "pinned": true
+                }
+              },
+              {
+                "id": "5b8e98cbd86c1beb",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 245.50446701049805
+      },
+      "right": {
+        "id": "b9b0bdf31a59fc87",
+        "type": "split",
+        "children": [
+          {
+            "id": "92d77acd75f269b7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "99b5eb9d45793861",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "558ebf6f7cb08509",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "d472a4a284dfd798",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "database-plugin",
+                  "state": {
+                    "file": "Lecture/Subject note/Untitled database.md"
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "3417d7d749047d48",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "beb295a431b4fbfe",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1a1b3439acd66d2b",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "7f93d590533e8e39",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f617bc154e566607",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "12ef96882436fca1",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "34b95397a3d8fb00",
+                "type": "leaf",
+                "state": {
+                  "type": "FANTASY_CALENDAR",
+                  "state": {}
+                }
+              },
+              {
+                "id": "28725fc6c7d77f73",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "zk-prefixer:Create new unique note": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "big-calendar:Big Calendar": true,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "obsidian-full-calendar:Open Full Calendar": true,
+          "canvas:Create new canvas": true,
+          "daily-notes:Open today's daily note": true,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "templater-obsidian:Templater": true,
+          "homepage:Open homepage": true,
+          "obsidian-projects:Open projects": false,
+          "fantasy-calendar:Open Large Fantasy Calendar": true,
+          "dbfolder:Create a new database table": true,
+          "periodic-notes:Open today": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "1ddb2cbd80a5f11e",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "/",
+          "Lecture",
+          "Template",
+          "Lecture/Subject note"
+        ]
+      }
+    },
+    "it's mail time bitch": {
+      "main": {
+        "id": "e9961de8d3a77a1d",
+        "type": "split",
+        "children": [
+          {
+            "id": "ff4aadffc81f681c",
+            "type": "tabs",
+            "dimension": 25.82972582972583,
+            "children": [
+              {
+                "id": "0e3378dba9870108",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "obsidian-projects",
+                  "state": {},
+                  "pinned": true
+                }
+              }
+            ]
+          },
+          {
+            "id": "109f6d00717a6570",
+            "type": "tabs",
+            "dimension": 74.17027417027417,
+            "children": [
+              {
+                "id": "7cb13455a890651e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "People/Christine Ferrier-Pagès.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "8b44b03f45435937",
+        "type": "split",
+        "children": [
+          {
+            "id": "9de7aff7be4130fa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e26a43c8a39db112",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "Creators",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "876d9bcf91053381",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "544b800faba70ea1",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "b9b0bdf31a59fc87",
+        "type": "split",
+        "children": [
+          {
+            "id": "92d77acd75f269b7",
+            "type": "tabs",
+            "dimension": 33.33333333333333,
+            "children": [
+              {
+                "id": "3417d7d749047d48",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "People/Christine Ferrier-Pagès.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "beb295a431b4fbfe",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "People/Christine Ferrier-Pagès.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1a1b3439acd66d2b",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "7f93d590533e8e39",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "People/Christine Ferrier-Pagès.md"
+                  }
+                }
+              },
+              {
+                "id": "f617bc154e566607",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "12ef96882436fca1",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "28725fc6c7d77f73",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f48c1adecb0db2fc",
+                "type": "leaf",
+                "state": {
+                  "type": "FANTASY_CALENDAR",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 7
+          },
+          {
+            "id": "9e66cea1d4440b53",
+            "type": "tabs",
+            "dimension": 33.33333333333333,
+            "children": [
+              {
+                "id": "558ebf6f7cb08509",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "44cc1dafdb3f467b",
+            "type": "tabs",
+            "dimension": 33.33333333333333,
+            "children": [
+              {
+                "id": "99b5eb9d45793861",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 331.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "zk-prefixer:Create new unique note": false,
+          "big-calendar:Big Calendar": true,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "canvas:Create new canvas": true,
+          "daily-notes:Open today's daily note": true,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "templater-obsidian:Templater": true,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "homepage:Open homepage": false,
+          "fantasy-calendar:Open Large Fantasy Calendar": false,
+          "obsidian-full-calendar:Open Full Calendar": false,
+          "obsidian-textgenerator-plugin:Generate Text!": false,
+          "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+          "dbfolder:Create a new database table": false,
+          "obsidian-projects:Open projects": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "7cb13455a890651e",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "Project/Experience",
+          "textgenerator/prompts/default"
+        ]
+      }
+    },
+    "Job seeking": {
+      "main": {
+        "id": "e9961de8d3a77a1d",
+        "type": "split",
+        "children": [
+          {
+            "id": "7ad454933b89cebc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b259816cca781638",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Note/Work interest.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "8b44b03f45435937",
+        "type": "split",
+        "children": [
+          {
+            "id": "d7d6036409eb2ef4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e26a43c8a39db112",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "de8ddf66899fe1ce",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "e1dfae4890e20254",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-coral-research-hub-",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 373.50446701049805
+      },
+      "right": {
+        "id": "b9b0bdf31a59fc87",
+        "type": "split",
+        "children": [
+          {
+            "id": "92d77acd75f269b7",
+            "type": "tabs",
+            "dimension": 47.934782608695656,
+            "children": [
+              {
+                "id": "558ebf6f7cb08509",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "1a1b3439acd66d2b",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequencyReverse",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "67ab8493d5a52681",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-google-calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8f162811ff42c056",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "35c7cfab021839e8",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Note/Work interest.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "cc4d04c57f3cf954",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Note/Work interest.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "5eb69cb1cf6a4985",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-findaphd",
+                  "state": {}
+                }
+              },
+              {
+                "id": "57785d9b97d72f00",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Note/Work interest.md"
+                  }
+                }
+              },
+              {
+                "id": "0a591b1c2888b7ee",
+                "type": "leaf",
+                "state": {
+                  "type": "FANTASY_CALENDAR",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 6
+          },
+          {
+            "id": "ad8705ef4f8b7e14",
+            "type": "tabs",
+            "dimension": 52.06521739130435,
+            "children": [
+              {
+                "id": "58bb15a4660de5c3",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-euraxess",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 424.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-custom-frames:Open Google Calendar": true,
+          "obsidian-textgenerator-plugin:Generate Text!": true,
+          "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
+          "zk-prefixer:Create new unique note": true,
+          "obsidian-excalidraw-plugin:Create new drawing": true,
+          "big-calendar:Big Calendar": true,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "obsidian-full-calendar:Open Full Calendar": true,
+          "canvas:Create new canvas": true,
+          "daily-notes:Open today's daily note": true,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "templater-obsidian:Templater": true,
+          "obsidian-projects:Open projects": true,
+          "fantasy-calendar:Open Large Fantasy Calendar": true,
+          "dbfolder:Create a new database table": true,
+          "workspaces:Manage workspace layouts": true,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "b259816cca781638",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "Lecture/Article",
+          "Note",
+          "People",
+          "Project",
+          "Project/Projet diverse"
+        ]
+      }
+    },
+    "work grant/project": {
+      "main": {
+        "id": "e9961de8d3a77a1d",
+        "type": "split",
+        "children": [
+          {
+            "id": "c2161794a6fb265b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "04d5c78f7871a9b6",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "8b44b03f45435937",
+        "type": "split",
+        "children": [
+          {
+            "id": "9de7aff7be4130fa",
+            "type": "tabs",
+            "dimension": 33.09294871794871,
+            "children": [
+              {
+                "id": "94e2b4253bc35dfb",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "database-plugin",
+                  "state": {
+                    "file": "Project/Grant/Grant.md"
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          },
+          {
+            "id": "8b84fa475d5406b8",
+            "type": "tabs",
+            "dimension": 36.69871794871795,
+            "children": [
+              {
+                "id": "36dbdefe7c68d628",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "database-plugin",
+                  "state": {
+                    "file": "Project/Projet diverse/Projet diverse.md"
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          },
+          {
+            "id": "6513e132f8ae8554",
+            "type": "tabs",
+            "dimension": 30.208333333333325,
+            "children": [
+              {
+                "id": "67ab8493d5a52681",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "database-plugin",
+                  "state": {
+                    "file": "Project/Experience/Projects.md"
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 383.5124969482422
+      },
+      "right": {
+        "id": "b9b0bdf31a59fc87",
+        "type": "split",
+        "children": [
+          {
+            "id": "92d77acd75f269b7",
+            "type": "tabs",
+            "dimension": 54.23913043478261,
+            "children": [
+              {
+                "id": "558ebf6f7cb08509",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "3417d7d749047d48",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "beb295a431b4fbfe",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1a1b3439acd66d2b",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequencyReverse",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "7f93d590533e8e39",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d0fbae66ef16af5d",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-chatgpt",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          },
+          {
+            "id": "8b70b98a50f417b7",
+            "type": "tabs",
+            "dimension": 45.76086956521739,
+            "children": [
+              {
+                "id": "e26a43c8a39db112",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 594.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-custom-frames:Open Google Calendar": true,
+          "obsidian-textgenerator-plugin:Generate Text!": true,
+          "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
+          "zk-prefixer:Create new unique note": true,
+          "obsidian-excalidraw-plugin:Create new drawing": true,
+          "big-calendar:Big Calendar": true,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "obsidian-full-calendar:Open Full Calendar": true,
+          "canvas:Create new canvas": true,
+          "daily-notes:Open today's daily note": true,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "templater-obsidian:Templater": true,
+          "obsidian-projects:Open projects": true,
+          "fantasy-calendar:Open Large Fantasy Calendar": true,
+          "dbfolder:Create a new database table": true,
+          "workspaces:Manage workspace layouts": true,
+          "periodic-notes:Open today": true
+        }
+      },
+      "active": "04d5c78f7871a9b6",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "Lecture/Article",
+          "Project",
+          "Project/Experience"
+        ]
+      }
+    },
+    "work 2": {
+      "main": {
+        "id": "e9961de8d3a77a1d",
+        "type": "split",
+        "children": [
+          {
+            "id": "c2161794a6fb265b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "04d5c78f7871a9b6",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "8b44b03f45435937",
+        "type": "split",
+        "children": [
+          {
+            "id": "9de7aff7be4130fa",
+            "type": "tabs",
+            "dimension": 33.09294871794871,
+            "children": [
+              {
+                "id": "94e2b4253bc35dfb",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "database-plugin",
+                  "state": {
+                    "file": "Project/Grant/Grant.md"
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          },
+          {
+            "id": "8b84fa475d5406b8",
+            "type": "tabs",
+            "dimension": 36.69871794871796,
+            "children": [
+              {
+                "id": "36dbdefe7c68d628",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "database-plugin",
+                  "state": {
+                    "file": "Project/Projet diverse/Projet diverse.md"
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          },
+          {
+            "id": "6513e132f8ae8554",
+            "type": "tabs",
+            "dimension": 30.208333333333336,
+            "children": [
+              {
+                "id": "67ab8493d5a52681",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "database-plugin",
+                  "state": {
+                    "file": "Project/Experience/Projects.md"
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 383.5124969482422
+      },
+      "right": {
+        "id": "b9b0bdf31a59fc87",
+        "type": "split",
+        "children": [
+          {
+            "id": "92d77acd75f269b7",
+            "type": "tabs",
+            "dimension": 54.23913043478261,
+            "children": [
+              {
+                "id": "558ebf6f7cb08509",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "3417d7d749047d48",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "beb295a431b4fbfe",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1a1b3439acd66d2b",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequencyReverse",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "7f93d590533e8e39",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d0fbae66ef16af5d",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-chatgpt",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          },
+          {
+            "id": "8b70b98a50f417b7",
+            "type": "tabs",
+            "dimension": 45.76086956521739,
+            "children": [
+              {
+                "id": "e26a43c8a39db112",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 594.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "remotely-save:Remotely Save": false,
+          "obsidian-custom-frames:Open Google Calendar": true,
+          "obsidian-textgenerator-plugin:Generate Text!": true,
+          "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
+          "zk-prefixer:Create new unique note": true,
+          "obsidian-excalidraw-plugin:Create new drawing": true,
+          "big-calendar:Big Calendar": true,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "obsidian-full-calendar:Open Full Calendar": true,
+          "canvas:Create new canvas": true,
+          "daily-notes:Open today's daily note": true,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "templater-obsidian:Templater": true,
+          "obsidian-projects:Open projects": true,
+          "fantasy-calendar:Open Large Fantasy Calendar": true,
+          "dbfolder:Create a new database table": true,
+          "workspaces:Manage workspace layouts": true,
+          "periodic-notes:Open today": true
+        }
+      },
+      "active": "04d5c78f7871a9b6",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "Lecture/Article",
+          "Project",
+          "Project/Experience"
+        ]
+      }
+    },
+    "mail": {
+      "main": {
+        "id": "e9961de8d3a77a1d",
+        "type": "split",
+        "children": [
+          {
+            "id": "18d548f9d6bd905e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "78e564fb982e8a3e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "People/Mail generation.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "stacked": true
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "8b44b03f45435937",
+        "type": "split",
+        "children": [
+          {
+            "id": "d7d6036409eb2ef4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e26a43c8a39db112",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "1b96c64361e0f16a",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Note/Dataview.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "ea0684e328b856ac",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-mail",
+                  "state": {}
+                }
+              },
+              {
+                "id": "21847d15fb71b4c8",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 704.5124969482422
+      },
+      "right": {
+        "id": "b9b0bdf31a59fc87",
+        "type": "split",
+        "children": [
+          {
+            "id": "92d77acd75f269b7",
+            "type": "tabs",
+            "dimension": 28.685897435897434,
+            "children": [
+              {
+                "id": "1a1b3439acd66d2b",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequencyReverse",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "558ebf6f7cb08509",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "36f38317805ca2db",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-to-do-",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "4ff8985c5969e379",
+            "type": "tabs",
+            "dimension": 71.31410256410257,
+            "children": [
+              {
+                "id": "cbcc8d6a86774a87",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-chatgpt",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 679.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "remotely-save:Remotely Save": false,
+          "obsidian-custom-frames:Open Google Calendar": true,
+          "obsidian-textgenerator-plugin:Generate Text!": true,
+          "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
+          "zk-prefixer:Create new unique note": true,
+          "obsidian-excalidraw-plugin:Create new drawing": true,
+          "big-calendar:Big Calendar": true,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "obsidian-full-calendar:Open Full Calendar": true,
+          "canvas:Create new canvas": true,
+          "daily-notes:Open today's daily note": true,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "templater-obsidian:Templater": true,
+          "obsidian-projects:Open projects": true,
+          "fantasy-calendar:Open Large Fantasy Calendar": true,
+          "dbfolder:Create a new database table": true,
+          "workspaces:Manage workspace layouts": true,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "78e564fb982e8a3e",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "People",
+          "Project",
+          "Project/Projet diverse",
+          "Template"
+        ]
+      }
+    },
+    "Work place": {
+      "main": {
+        "id": "e9961de8d3a77a1d",
+        "type": "split",
+        "children": [
+          {
+            "id": "12ce8c8f07e09e5e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5b489b72ff554ccf",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "8b44b03f45435937",
+        "type": "split",
+        "children": [
+          {
+            "id": "9de7aff7be4130fa",
+            "type": "tabs",
+            "dimension": 23.413897280966765,
+            "children": [
+              {
+                "id": "94e2b4253bc35dfb",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "database-plugin",
+                  "state": {
+                    "file": "Project/Grant/Grant.md"
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          },
+          {
+            "id": "8b84fa475d5406b8",
+            "type": "tabs",
+            "dimension": 22.205438066465256,
+            "children": [
+              {
+                "id": "36dbdefe7c68d628",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "database-plugin",
+                  "state": {
+                    "file": "Project/Projet diverse/Projet diverse.md"
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          },
+          {
+            "id": "6513e132f8ae8554",
+            "type": "tabs",
+            "dimension": 27.190332326283983,
+            "children": [
+              {
+                "id": "67ab8493d5a52681",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "database-plugin",
+                  "state": {
+                    "file": "Project/Experience/Projects.md"
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          },
+          {
+            "id": "da3e9c9d61159c9d",
+            "type": "tabs",
+            "dimension": 27.190332326283983,
+            "children": [
+              {
+                "id": "04d5c78f7871a9b6",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "database-plugin",
+                  "state": {
+                    "file": "Meetings/Untitled database.md"
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 383.5124969482422
+      },
+      "right": {
+        "id": "b9b0bdf31a59fc87",
+        "type": "split",
+        "children": [
+          {
+            "id": "92d77acd75f269b7",
+            "type": "tabs",
+            "dimension": 54.23913043478261,
+            "children": [
+              {
+                "id": "558ebf6f7cb08509",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "3417d7d749047d48",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Meetings/Untitled database.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "beb295a431b4fbfe",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Meetings/Untitled database.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1a1b3439acd66d2b",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequencyReverse",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "7f93d590533e8e39",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Meetings/Untitled database.md"
+                  }
+                }
+              },
+              {
+                "id": "d0fbae66ef16af5d",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-chatgpt",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          },
+          {
+            "id": "8b70b98a50f417b7",
+            "type": "tabs",
+            "dimension": 45.76086956521739,
+            "children": [
+              {
+                "id": "e26a43c8a39db112",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 594.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "remotely-save:Remotely Save": false,
+          "obsidian-custom-frames:Open Google Calendar": true,
+          "obsidian-textgenerator-plugin:Generate Text!": true,
+          "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
+          "zk-prefixer:Create new unique note": true,
+          "obsidian-excalidraw-plugin:Create new drawing": true,
+          "big-calendar:Big Calendar": true,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "obsidian-full-calendar:Open Full Calendar": true,
+          "canvas:Create new canvas": true,
+          "daily-notes:Open today's daily note": true,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "templater-obsidian:Templater": true,
+          "obsidian-projects:Open projects": true,
+          "fantasy-calendar:Open Large Fantasy Calendar": true,
+          "dbfolder:Create a new database table": true,
+          "workspaces:Manage workspace layouts": true,
+          "periodic-notes:Open today": true
+        }
+      },
+      "active": "d0fbae66ef16af5d",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "Lecture/Article",
+          "Meetings",
+          "Note",
+          "Project",
+          "Project/Experience"
+        ]
+      }
+    },
+    "sample work": {
+      "main": {
+        "id": "e9961de8d3a77a1d",
+        "type": "split",
+        "children": [
+          {
+            "id": "647e6ce1afd2e38d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7c98ddb42ac3e3b1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Template/Sample.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "8b44b03f45435937",
+        "type": "split",
+        "children": [
+          {
+            "id": "3eaecfb806a70a8f",
+            "type": "tabs",
+            "dimension": 35.320754716981135,
+            "children": [
+              {
+                "id": "f2da099e7acbe8c3",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "database-plugin",
+                  "state": {
+                    "file": "Project/Experience/Projects.md"
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          },
+          {
+            "id": "12bfea1e1cbd229e",
+            "type": "tabs",
+            "dimension": 16.830188679245282,
+            "children": [
+              {
+                "id": "b96f702ca0b8ade9",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "database-plugin",
+                  "state": {
+                    "file": "Project/Sample/Untitled database.md"
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          },
+          {
+            "id": "0c37d47db9aff96a",
+            "type": "tabs",
+            "dimension": 47.84905660377359,
+            "children": [
+              {
+                "id": "41eb72136b210c1a",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "database-plugin",
+                  "state": {
+                    "file": "Project/Manipulation/Manipulation.md"
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 383.5124969482422
+      },
+      "right": {
+        "id": "b9b0bdf31a59fc87",
+        "type": "split",
+        "children": [
+          {
+            "id": "92d77acd75f269b7",
+            "type": "tabs",
+            "dimension": 50.30211480362537,
+            "children": [
+              {
+                "id": "558ebf6f7cb08509",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "3417d7d749047d48",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Template/Sample.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "beb295a431b4fbfe",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Template/Sample.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1a1b3439acd66d2b",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequencyReverse",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "7f93d590533e8e39",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Template/Sample.md"
+                  }
+                }
+              },
+              {
+                "id": "d0fbae66ef16af5d",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-chatgpt",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "8b70b98a50f417b7",
+            "type": "tabs",
+            "dimension": 49.69788519637463,
+            "children": [
+              {
+                "id": "e26a43c8a39db112",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 594.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "remotely-save:Remotely Save": false,
+          "obsidian-custom-frames:Open Google Calendar": true,
+          "obsidian-textgenerator-plugin:Generate Text!": true,
+          "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
+          "zk-prefixer:Create new unique note": true,
+          "obsidian-excalidraw-plugin:Create new drawing": true,
+          "big-calendar:Big Calendar": true,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "obsidian-full-calendar:Open Full Calendar": true,
+          "canvas:Create new canvas": true,
+          "daily-notes:Open today's daily note": true,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "templater-obsidian:Templater": true,
+          "obsidian-projects:Open projects": true,
+          "fantasy-calendar:Open Large Fantasy Calendar": true,
+          "dbfolder:Create a new database table": true,
+          "workspaces:Manage workspace layouts": true,
+          "periodic-notes:Open today": true
+        }
+      },
+      "active": "7c98ddb42ac3e3b1",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "Lecture/Article",
+          "Note",
+          "Project",
+          "Project/Manipulation",
+          "Project/Sample",
+          "Template"
+        ]
+      }
+    },
+    "workspace plus plus": {
+      "main": {
+        "id": "e9961de8d3a77a1d",
+        "type": "split",
+        "children": [
+          {
+            "id": "1aef71ce5292cfb1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "943558bd94136404",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Template/Writing work.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "8b44b03f45435937",
+        "type": "split",
+        "children": [
+          {
+            "id": "8b84fa475d5406b8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "96602b63652cdf51",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "obsidian-projects",
+                  "state": {},
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 538.4999961853027
+      },
+      "right": {
+        "id": "b9b0bdf31a59fc87",
+        "type": "split",
+        "children": [
+          {
+            "id": "92d77acd75f269b7",
+            "type": "tabs",
+            "dimension": 45.60290117860381,
+            "children": [
+              {
+                "id": "558ebf6f7cb08509",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "3417d7d749047d48",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Template/Writing work.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "beb295a431b4fbfe",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Template/Writing work.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1a1b3439acd66d2b",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequencyReverse",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "7f93d590533e8e39",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Template/Writing work.md"
+                  }
+                }
+              },
+              {
+                "id": "1b62a3bc32288a43",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          },
+          {
+            "id": "8b70b98a50f417b7",
+            "type": "tabs",
+            "dimension": 54.39709882139619,
+            "children": [
+              {
+                "id": "e26a43c8a39db112",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "line:(#introduction #general)",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "byCreatedTime"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 559.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-day-planner:Week plan": false,
+          "remotely-save:Remotely Save": false,
+          "obsidian-custom-frames:Open Google Calendar": true,
+          "obsidian-textgenerator-plugin:Generate Text!": false,
+          "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
+          "zk-prefixer:Create new unique note": true,
+          "obsidian-excalidraw-plugin:Create new drawing": true,
+          "big-calendar:Big Calendar": true,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "obsidian-full-calendar:Open Full Calendar": true,
+          "canvas:Create new canvas": true,
+          "daily-notes:Open today's daily note": true,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "templater-obsidian:Templater": true,
+          "obsidian-projects:Open projects": false,
+          "fantasy-calendar:Open Large Fantasy Calendar": true,
+          "dbfolder:Create a new database table": true,
+          "workspaces:Manage workspace layouts": true,
+          "periodic-notes:Open today": true
+        }
+      },
+      "active": "943558bd94136404",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "Lecture/Article",
+          "Meetings",
+          "Note",
+          "Project",
+          "Project/Experience",
+          "Template"
+        ]
+      }
+    },
+    "i am here": {
+      "main": {
+        "id": "e9961de8d3a77a1d",
+        "type": "split",
+        "children": [
+          {
+            "id": "1aef71ce5292cfb1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "943558bd94136404",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Project/Writing work/Subject/Microbiome.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "8b44b03f45435937",
+        "type": "split",
+        "children": [
+          {
+            "id": "8b84fa475d5406b8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "96602b63652cdf51",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "obsidian-projects",
+                  "state": {},
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 538.4999961853027
+      },
+      "right": {
+        "id": "b9b0bdf31a59fc87",
+        "type": "split",
+        "children": [
+          {
+            "id": "92d77acd75f269b7",
+            "type": "tabs",
+            "dimension": 45.60290117860381,
+            "children": [
+              {
+                "id": "558ebf6f7cb08509",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "3417d7d749047d48",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Project/Writing work/Subject/Microbiome.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "beb295a431b4fbfe",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Project/Writing work/Subject/Microbiome.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1a1b3439acd66d2b",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequencyReverse",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "7f93d590533e8e39",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Project/Writing work/Subject/Microbiome.md"
+                  }
+                }
+              },
+              {
+                "id": "1b62a3bc32288a43",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          },
+          {
+            "id": "8b70b98a50f417b7",
+            "type": "tabs",
+            "dimension": 54.39709882139619,
+            "children": [
+              {
+                "id": "e26a43c8a39db112",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "line:(#introduction #symbio)",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "byCreatedTime"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 559.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-day-planner:Week plan": false,
+          "remotely-save:Remotely Save": false,
+          "obsidian-custom-frames:Open Google Calendar": true,
+          "obsidian-textgenerator-plugin:Generate Text!": false,
+          "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
+          "zk-prefixer:Create new unique note": true,
+          "obsidian-excalidraw-plugin:Create new drawing": true,
+          "big-calendar:Big Calendar": true,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "obsidian-full-calendar:Open Full Calendar": true,
+          "canvas:Create new canvas": true,
+          "daily-notes:Open today's daily note": true,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "templater-obsidian:Templater": true,
+          "obsidian-projects:Open projects": false,
+          "fantasy-calendar:Open Large Fantasy Calendar": true,
+          "dbfolder:Create a new database table": true,
+          "workspaces:Manage workspace layouts": true,
+          "periodic-notes:Open today": true
+        }
+      },
+      "active": "943558bd94136404",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "Lecture/Article",
+          "Note",
+          "Project",
+          "Template"
+        ]
+      }
+    }
+  },
+  "active": "workspace plus plus"
+}

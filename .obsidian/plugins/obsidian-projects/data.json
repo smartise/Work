@@ -1,0 +1,1342 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {
+        "tag": {}
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Project/Work/Writing subject/Articles",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "database-plugin": {
+                "hide": true
+              },
+              "name": {
+                "width": 253,
+                "hide": false
+              },
+              "tags": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "19e82338-f332-4b69-968d-c074ba2b61bb",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "interval": "month"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#a882ff",
+                "condition": {
+                  "field": "tags",
+                  "operator": "is-empty",
+                  "enabled": true
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "8c4d6ac0-2118-4f1c-9b29-6a2e5db5c390",
+          "name": "Calendar",
+          "type": "calendar"
+        }
+      ],
+      "id": "2f8eb7cf-ec75-4a9a-9713-785812cf4e5a",
+      "name": "Articles"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Project/Work/Writing subject/Grant",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "database-plugin": {
+                "hide": true
+              },
+              "tags": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "b95fe73b-9f9c-4e63-b0e6-cea5f62c6302",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "4459c803-d7d9-4020-b50b-0b023ba65e3b",
+      "name": "Grant"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Project/Work/Writing subject/Presentation",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "tags": {
+                "hide": true
+              },
+              "tipe": {
+                "hide": true
+              }
+            },
+            "orderFields": [
+              "name",
+              "date:",
+              "Done"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "7e9ca8e2-311c-4398-a932-a823903ed1c6",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "ce16032f-51cc-4123-a132-abea18cf76a3",
+      "name": "Presentation"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Project/Work/Writing subject/Subject",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "8b74d45e-4931-4264-869e-76ff2a811a4e",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "0a7209e2-041e-4169-b334-4f017332c9fc",
+      "name": "Subject"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Project/Work/Writing subject/Projet diverse",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "36f0cff4-bca3-41d9-ade8-aa23455caf6e",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "d8c24ab0-1214-4864-b004-4e6860574ed7",
+      "name": "Diverse Project "
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Project/Work/Writing subject",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "interval": "month",
+            "checkField": "Done"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#ff0000",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "presentation"
+                }
+              },
+              {
+                "color": "#00ff04",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "grant"
+                }
+              },
+              {
+                "color": "#a882ff",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "article"
+                }
+              },
+              {
+                "color": "#4c00ff",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "meeting"
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "379b2457-63ff-4370-95ad-e3e8024a5d8b",
+          "name": "Calendar",
+          "type": "calendar"
+        },
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "Done": {
+                "width": 106
+              },
+              "date:": {
+                "width": 111
+              },
+              "tags": {
+                "hide": true
+              },
+              "attendant :": {
+                "hide": true
+              },
+              "subject:": {
+                "hide": true
+              },
+              "database-plugin": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#11ff00",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "grant"
+                }
+              },
+              {
+                "color": "#a882ff",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "article"
+                }
+              },
+              {
+                "color": "#ff0000",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "presentation"
+                }
+              },
+              {
+                "color": "#ffdd00",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "subject"
+                }
+              },
+              {
+                "color": "#0040ff",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "meeting"
+                }
+              },
+              {
+                "color": "#00ffd5",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "Methodologysub"
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "88233a31-06e6-460f-9567-c0d5b01c4560",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "251deaf3-5779-4ba7-9c23-7bb9413059a9",
+      "name": "Writing subject"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Project/Work/Practical work",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "database-plugin": {
+                "hide": true
+              },
+              "date": {
+                "hide": true
+              },
+              "Device:": {
+                "hide": true
+              },
+              "Done": {
+                "hide": false
+              },
+              "Experience:": {
+                "hide": true
+              },
+              "Mesure:": {
+                "hide": true
+              },
+              "Summary:": {
+                "hide": true
+              },
+              "tipe:": {
+                "hide": false
+              },
+              "type:": {
+                "hide": true
+              },
+              "tags": {
+                "hide": true
+              }
+            },
+            "orderFields": [
+              "name",
+              "tipe",
+              "date:",
+              "Done"
+            ]
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "tipe",
+                "operator": "not-contains",
+                "enabled": false,
+                "value": "sample"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#a882ff",
+                "condition": {
+                  "field": "tipe:",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "manipulation"
+                }
+              },
+              {
+                "color": "#eb0000",
+                "condition": {
+                  "field": "tipe:",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "experience"
+                }
+              },
+              {
+                "color": "#00ff04",
+                "condition": {
+                  "field": "tipe:",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "fieldwork"
+                }
+              },
+              {
+                "color": "#e600d2",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "dataanalysis"
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "89a68753-4a54-4358-bed4-f15472b58726",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "tipe:"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "1fa8a8e9-ea98-4a87-83fa-ef600d6c3155",
+          "name": "Board",
+          "type": "board"
+        }
+      ],
+      "id": "e3c6a09f-1bf8-46fe-95cf-a32c6ce1d928",
+      "name": "Practical work "
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Project/Work/Practical subject/Manipulation",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "date": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "Done",
+                "operator": "is-not-checked",
+                "enabled": false
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "44a8c37e-7c31-4398-b2a0-e3f1f5f4f7f0",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "a242e21f-13ab-42e3-aa33-5d55acf616a9",
+      "name": "Manipulation"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "sample {{date:DD-MM-YYYY}} ",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Project/Work/Practical work/Sample",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "e4721104-4c18-45b5-a154-eddd10029231",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "89aa5a24-dca4-4940-86f4-f265691bb410",
+      "name": "Sample"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Project/Work/Pratical subject/Experience",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "date": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "2255a130-b4a4-4477-a8c9-db194591eed3",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "2085ae05-14ac-4693-a590-441a51fcf02c",
+      "name": "Experience"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Project/Work/Pratical subject/Methodology subject",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "tipe": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "fbe06d55-42ba-4cdc-88d6-c5ad5acce0f1",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "b7c879c0-2a3a-4c87-9b42-d2c70f1b8e37",
+      "name": "Methodology subject"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Lecture/Article",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "tipe": {
+                "hide": true
+              },
+              "Creators": {
+                "hide": true
+              },
+              "database-plugin": {
+                "hide": true
+              },
+              "Abstract_read": {
+                "hide": true
+              },
+              "collections": {
+                "hide": true
+              },
+              "Tags": {
+                "hide": true
+              },
+              "title": {
+                "hide": true
+              },
+              "Read": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "collections",
+                "operator": "contains",
+                "enabled": true,
+                "value": "[[epigenetic coral]]"
+              },
+              {
+                "field": "name",
+                "operator": "is-not-empty",
+                "enabled": true
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "4a821e06-dcaa-48a7-89ab-1049e1cecfe7",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "8157a22f-f817-4a26-a1e2-58ce581f2ca9",
+      "name": "Articles read"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Project/Work/Pratical subject/Data processing",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "tags": {
+                "hide": true
+              },
+              "tipe": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "a83d143b-e32e-4d6c-a82a-732bc7d7b033",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "494953be-4950-42b3-a9e5-2ab747fd84f5",
+      "name": "Data processing"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Project/Work",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "tags": {
+                "hide": true
+              },
+              "attendant :": {
+                "hide": true
+              },
+              "date": {
+                "hide": true
+              },
+              "tipe:": {
+                "hide": true
+              },
+              "name": {
+                "width": 132
+              },
+              "title": {
+                "hide": true
+              },
+              "try": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "Done",
+                "operator": "is-not-checked",
+                "enabled": false
+              }
+            ]
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#4c00ff",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "subject"
+                }
+              },
+              {
+                "color": "#00ff9d",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "presentation"
+                }
+              },
+              {
+                "color": "#00ff04",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "article"
+                }
+              },
+              {
+                "color": "#eeff00",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "dataanalysis"
+                }
+              },
+              {
+                "color": "#ffa200",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "Methodologysub"
+                }
+              },
+              {
+                "color": "#ff0000",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "meeting"
+                }
+              },
+              {
+                "color": "#ff00a2",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "grant"
+                }
+              },
+              {
+                "color": "#bb00ff",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "experience"
+                }
+              },
+              {
+                "color": "#00a4eb",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "manipulation"
+                }
+              },
+              {
+                "color": "#ff8080",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "fieldwork"
+                }
+              },
+              {
+                "color": "#a882ff",
+                "condition": {
+                  "field": "name",
+                  "operator": "is-not-empty",
+                  "enabled": true
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "date:",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "fe4732ee-d9f9-4dae-bf6b-1cea0dabe94c",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "interval": "month"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#4c00ff",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "subject"
+                }
+              },
+              {
+                "color": "#00ff9d",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "presentation"
+                }
+              },
+              {
+                "color": "#00ff04",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "article"
+                }
+              },
+              {
+                "color": "#eeff00",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "dataanalysis"
+                }
+              },
+              {
+                "color": "#ffa200",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "Methodologysub"
+                }
+              },
+              {
+                "color": "#ff0000",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "meeting"
+                }
+              },
+              {
+                "color": "#ff00a2",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "grant"
+                }
+              },
+              {
+                "color": "#bb00ff",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "experience"
+                }
+              },
+              {
+                "color": "#00a4eb",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "manipulation"
+                }
+              },
+              {
+                "color": "#ff8080",
+                "condition": {
+                  "field": "tipe",
+                  "operator": "contains",
+                  "enabled": true,
+                  "value": "fieldwork"
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "1fd6a6e7-e95d-4a26-9a5d-7e2d9a4808a1",
+          "name": "Calendar",
+          "type": "calendar"
+        }
+      ],
+      "id": "78ad72ac-2d29-46e9-9404-4b634465ed20",
+      "name": "Work"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Project/Work/Pratical subject/FIeldwork",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "4e6e639f-4a49-4121-832f-e2159beefa2f",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "c060d96b-fd23-4916-b6e8-69129eef8d46",
+      "name": "Field work"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Project/Work/Practical work/Data processing work",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "f0c7d2d8-26f5-42cf-94d8-be3ddcf15abe",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "2280d796-e51e-4761-bd61-338ebbe0bc4f",
+      "name": "Data processing work"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Project/Work/Practical subject",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "date": {
+                "hide": true
+              },
+              "date:": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "Done",
+                "operator": "is-not-checked",
+                "enabled": false
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "014664b2-b792-4cf7-a6ce-abda91507cca",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "ae18b204-656c-4470-aec3-953f5eff95a2",
+      "name": "practical subject"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Work seeking",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "eaac269e-269f-4a96-9adc-6d2b4c5eb2c6",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "8c3496a0-2a51-45ef-a8d9-4849a4340c6d",
+      "name": "Work seeking"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "efaf691a-1668-4c4a-ad74-3de314ca764d",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "eef430b6-b796-4dba-845c-4d8ef903fff1",
+      "name": "personal"
+    }
+  ],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [
+      {
+        "project": "251deaf3-5779-4ba7-9c23-7bb9413059a9"
+      }
+    ],
+    "linkBehavior": "open-editor"
+  }
+}
