@@ -19,3 +19,5 @@ get switch nameofthebranche *switch to another branch*
 get switch -c nameofthebranch *create and switch to another branch*
 
 :x *exit the strange think*
+
+i write something here
