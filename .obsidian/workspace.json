@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git command.md",
+                "file": "Project/journal/2023-11-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git command.md",
+                "file": "Project/journal/2023-11-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git command.md",
+                "file": "Project/journal/2023-11-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git command.md"
+                "file": "Project/journal/2023-11-12.md"
               }
             }
           },
@@ -240,20 +240,21 @@
   },
   "active": "d3b45204947a2e13",
   "lastOpenFiles": [
+    "git command.md",
+    "Project/journal/2023-11-12.md",
+    "cv latex.md",
+    "Documents/Personal Work/TFE_CollardOlivier.pdf",
+    "Documents/Personal Work/TFE_CollardOlivier_3ème_biotechnologie.pdf",
+    "Documents/Personal document/Non confirmé 873310.crdownload",
+    "Documents/Personal Work/TFE Collard Olivier 3ème biotechnologie .pdf",
+    "Documents/Personal Work/CollardOlivier_Oceanographie_Memoire2022.pdf",
+    "Documents/Personal Work",
+    "Documents/Nouveau dossier",
     "Project/journal/2023-11-11.md",
     "Project Panama - Raccourci.lnk",
-    "git command.md",
     "folder script/pin dayli.md",
-    "cv latex.md",
     "Documents/Personal document/CV_OlivierCollard.pdf",
     "Documents/Personal document",
-    "Documents/Nouveau dossier",
-    "personal",
-    "Mail/Template.msf",
-    "Mail/Template",
-    "Mail/Modèles-olivier1996collard@hotmail.fr.msf",
-    "Mail/Modèles-olivier1996collard@hotmail.fr",
-    "Mail/Work seeking.msf",
     "Note/Quick note.md",
     "Data/ITS2profile_panama_10-11-23/Data_symportal/post_med_seqs/20231007T052214_seq_abundance_stacked_bar_plot.svg",
     "Data/ITS2profile_panama_10-11-23/Data_symportal/post_med_seqs/20231007T052214_seq_abundance_stacked_bar_plot.png",
