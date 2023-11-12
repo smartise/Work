@@ -21,11 +21,9 @@
             "id": "d3b45204947a2e13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Project/journal/2023-11-12.md",
-                "mode": "source",
-                "source": false
+                "file": "Project/journal/2023-11-12.md"
               }
             }
           }
